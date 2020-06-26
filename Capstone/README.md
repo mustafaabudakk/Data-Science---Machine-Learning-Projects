@@ -1,0 +1,2 @@
+Bu Capstone projesi "IBM-Coursera Data Science Professional Certificate" kursunun son adımıdır.
+Bu proje Foursquare Developer hesabıyla konum analizi yapılmıştır. Konum analizinden çeşitli bölgelere ait özellikler ortaya çıkarılmıştır. Bazı özellikle geomap ile görselleştirilmiştir.
