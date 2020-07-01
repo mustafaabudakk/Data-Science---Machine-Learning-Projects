@@ -1,12 +1,12 @@
 Reddit - Data is Beautiful
 
-Posts of Data is Beautiful, a Reddit community.
+Reddit topluluğundan elde edilmiş postların analizi için kullanılan veri setine <a href="https://www.kaggle.com/unanimad/dataisbeautiful">Kaggle</a>'dan ulaşabilirsiniz.
 
-Content:
+İçerik:
 
-This dataset contains a couple of fields with the information based on Reddit post submission, such:
+Bu veri kümesi, Reddit gönderisine dayalı bilgileri içeren birkaç alan içerir, örneğin:
 
-Fields:
+Features:
 - id
 - title
 - score
