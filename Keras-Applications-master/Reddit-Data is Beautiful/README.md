@@ -6,7 +6,6 @@ Reddit topluluğundan elde edilmiş postların analizi için kullanılan veri se
 
 Bu veri kümesi, Reddit gönderisine dayalı bilgileri içeren birkaç alan içerir, örneğin:
 
-Features:
 - id
 - title
 - score
