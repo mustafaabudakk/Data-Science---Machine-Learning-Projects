@@ -10,3 +10,5 @@ In this notebook, we will explore techniques that we can use to achieve excellen
 - What does imbalanced data mean?
 - What is the paradox of truth?
 - What are the various approaches to the processing of imbalanced data?
+
+Please use <a href="https://nbviewer.jupyter.org/">nbviewer<7a> if it doesn't open.
