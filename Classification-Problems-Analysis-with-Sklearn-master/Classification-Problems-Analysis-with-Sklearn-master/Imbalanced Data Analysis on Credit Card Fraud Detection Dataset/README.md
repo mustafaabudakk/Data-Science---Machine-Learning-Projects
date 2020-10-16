@@ -11,4 +11,5 @@ In this notebook, we will explore techniques that we can use to achieve excellen
 - What is the paradox of truth?
 - What are the various approaches to the processing of imbalanced data?
 
-Please use <a href="https://nbviewer.jupyter.org/">nbviewer<7a> if it doesn't open.
+
+In case it doesn't open, please copy and open the repo's url to <a href="https://nbviewer.jupyter.org/">nbviewer</a> .
