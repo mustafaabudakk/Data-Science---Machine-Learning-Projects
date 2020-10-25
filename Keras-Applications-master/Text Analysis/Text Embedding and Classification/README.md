@@ -1,0 +1,1 @@
+We will learn the basics of Text Embedding and Text Classification and learn practically how to use text insertion for a real-world classification task and how to build, train and test a nervous system. When you network with Tensorflow using texts, we will get a bonus deep learning exercise implemented with Tensorflow.
