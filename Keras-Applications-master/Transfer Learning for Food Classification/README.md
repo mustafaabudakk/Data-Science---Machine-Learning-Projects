@@ -1,3 +1,4 @@
 Gıdanın türünü tahmin etmek için derin bir öğrenme modeli eğiteceğiz ve ardından performansını iyileştirmek için modele ince ayar yapacağız.
 Transfer Learning'in arkasındaki teori ve sezgiyi anlayıp, önceden eğitilmiş modelleri kullanarak bir derin öğrenme modelinin nasıl oluşturulacağını öğreneceğiz.
 Veri setine <a href="https://www.kaggle.com/tohidul/food11">Kaggle</a> üzerinden erişebilirsiniz.
+Projenin boyutu Github'ın sınırını aştığı için notebook linkini <a href="https://nbviewer.jupyter.org/">nbviewer</a>'a yapıştırarak projenin önizlemesine ulaşabilirsiniz ya da <a href="https://nbviewer.jupyter.org/github/mustafaabudakk/DataScience-ML-Projects/blob/master/Keras-Applications-master/Transfer%20Learning%20for%20Food%20Classification/food-classification.ipynb">buradan</a> bakabilirsiniz.  
